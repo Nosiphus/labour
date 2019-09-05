@@ -1,2 +1,2 @@
 # labour
-Nosiphus Labour
+Labour, the political arm of Nosiphus.
