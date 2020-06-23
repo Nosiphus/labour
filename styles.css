@@ -1,100 +1,11 @@
-@import url('https://www.nosiphus.com/styles.css');
+@import url("https://www.nosiphus.com/master.css");
 
-a {
+:root {
 	
-	color: #FF0000;
+	--background-color: #620000;
+	--box-shadow-light: #530000;
+	--box-shadow-dark: #710000;
+	--link-color: #FF0000;
+	--text-color: #9B0000;
 	
-}
-
-body {
-	
-	background-color: #620000;
-	
-}
-
-div {
-	
-	background-color: #620000;
-	border: 1px solid #620000;
-	box-shadow: 7px 7px 17px #530000, -7px -7px 17px #710000;
-	
-}
-
-div.borderlessbody {
-	
-	background-color: #620000;
-	box-shadow: 0px 0px 0px #530000, 0px 0px 0px #710000;
-	
-}
-
-div.dropdown-content {
-	
-	background-color: #620000;
-	border: 1px solid #620000;
-	box-shadow: 7px 7px 17px #530000, -7px -7px 17px #710000;
-	
-}
-
-div.dropdown-content a {
-	
-	color: #FF0000;
-	
-}
-
-div.dropdown-content a:hover {
-	
-	box-shadow: inset 7px 7px 17px #530000, -7px -7px 17px #710000;
-	
-}
-
-div.entire {
-	
-	background-color: #620000;
-	border: 0px solid #620000;
-	box-shadow: 0px 0px 0px #530000, 0px 0px 0px #710000;
-	
-}
-
-div.mainlogo {
-	
-	box-shadow: 0px 0px 0px #620000, 0px 0px 0px #620000;
-	
-}
-
-div.navigation {
-	
-	box-shadow: 0px 0px 0px #620000, 0px 0px 0px #620000;
-	
-}
-
-div.navigation > img {
-	
-	box-shadow: 0px 0px 0px #620000, 0px 0px 0px #620000;
-	
-}
-
-li a, .dropbtn {
-	
-	border: 1px solid #620000;
-	box-shadow: 7px 7px 17px #530000, -7px -7px 17px #710000;
-	color: #620000;
-	
-}
-
-li a:hover, .dropdown:hover .dropbtn {
-	
-	box-shadow: inset 7px 7px 17px #530000, -7px -7px 17px #710000;
-	
-}
-
-p {
-	
-	color: #9B0000;
-	
-}
-
-ul {
-	
-	border: 1px solid #620000;
-	box-shadow: 7px 7px 17px #530000, -7px -7px 17px #710000;
 }
